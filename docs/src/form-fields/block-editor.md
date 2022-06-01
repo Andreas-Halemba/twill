@@ -19,3 +19,5 @@ See [Block editor](/block-editor/)
 | blocks           | Array of blocks                                              | array          |               |
 | label            | Label used for the button                                    | string         | 'Add Content' |
 | withoutSeparator | Defines if a separator before the block editor container should be rendered | true<br/>false | false         |
+| group            | Defines which twillBlockGroup blocks will be avaliable       | string         |               |
+| groups           | Defines which twillBlockGroup blocks will be avaliable       | array          |               |
